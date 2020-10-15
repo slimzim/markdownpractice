@@ -41,7 +41,7 @@
 
 
   * <b>Candidates receive average scores, written comments, and a visual display of scores using Google Charts.</b>
-   <img src="/Candidate-score.gif" align="center"
+   <img src="/Candidate-Score.gif" align="center"
        alt="Mobile Mock-Up Images" width="100%" height="auto">
 
 ---
