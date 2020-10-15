@@ -1,5 +1,5 @@
-<img src="/client/src/Assets/images/image_1.gif" align="center"
-     alt="Bullring Birmingham Fashion Fix" width="100%" height="auto">
+<img src="/readme-header.png" align="center"
+     alt="Blind Ear Auditions" width="100%" height="auto">
 
 
 ---
